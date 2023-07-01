@@ -6,6 +6,7 @@ sudo pacman -S xorg-server \
   xorg-xinit \
   xorg-xrandr \
   xorg-xev \
+  xorg-xhost \
   xclip \
   i3-wm \
   pipewire \
