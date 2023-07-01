@@ -8,8 +8,10 @@ sudo pacman -S xorg-server \
   xorg-xev \
   xclip \
   i3-wm \
-  pulseaudio-alsa \
-  pavucontrol \
+  pipewire \
+  pipewire-alsa \
+  pipewire-pulse \
+  pamixer \
   usbutils \
   kitty \
   git \
