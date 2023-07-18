@@ -39,4 +39,6 @@ sudo pacman -S xorg-server \
   thunderbird-i18n-pt-br \
   scrcpy \
   dysk \
+  gamemode \
+  lib32-gamemode \
   bitwarden --noconfirm
