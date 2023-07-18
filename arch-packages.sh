@@ -32,4 +32,11 @@ sudo pacman -S xorg-server \
   hacksaw \
   xdotool \
   gpick \
+  arandr \
+  heimdall \
+  nitrogen \
+  sxiv \
+  thunderbird-i18n-pt-br \
+  scrcpy \
+  dysk \
   bitwarden --noconfirm
