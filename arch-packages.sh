@@ -41,4 +41,5 @@ sudo pacman -S xorg-server \
   dysk \
   gamemode \
   lib32-gamemode \
+  spotifyd \
   bitwarden --noconfirm
