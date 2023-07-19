@@ -44,4 +44,5 @@ sudo pacman -S xorg-server \
   spotifyd \
   libreoffice-fresh-pt-br \
   libreoffice-fresh \
+  ytfzf \
   bitwarden --noconfirm
