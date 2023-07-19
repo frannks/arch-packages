@@ -42,4 +42,6 @@ sudo pacman -S xorg-server \
   gamemode \
   lib32-gamemode \
   spotifyd \
+  libreoffice-fresh-pt-br \
+  libreoffice-fresh \
   bitwarden --noconfirm
