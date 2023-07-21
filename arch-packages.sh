@@ -45,5 +45,6 @@ sudo pacman -S xorg-server \
   libreoffice-fresh-pt-br \
   libreoffice-fresh \
   streamlink \
+  wine-staging \
   ytfzf \
   bitwarden --noconfirm
