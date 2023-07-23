@@ -47,4 +47,5 @@ sudo pacman -S xorg-server \
   streamlink \
   wine-staging \
   ytfzf \
+  minidlna \
   bitwarden --noconfirm
