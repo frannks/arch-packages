@@ -48,4 +48,5 @@ sudo pacman -S xorg-server \
   wine-staging \
   ytfzf \
   minidlna \
+  xdg-desktop-portal-gtk \
   bitwarden --noconfirm
