@@ -50,4 +50,5 @@ sudo pacman -S xorg-server \
   minidlna \
   xdg-desktop-portal-gtk \
   dosfstools \
+  npm \
   bitwarden --noconfirm
