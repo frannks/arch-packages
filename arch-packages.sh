@@ -51,4 +51,5 @@ sudo pacman -S xorg-server \
   xdg-desktop-portal-gtk \
   dosfstools \
   npm \
+  yad \
   bitwarden --noconfirm
