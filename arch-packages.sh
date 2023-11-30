@@ -5,36 +5,23 @@ sudo pacman -S xorg-server \
   xf86-video-amdgpu \
   xorg-xinit \
   xorg-xrandr \
-  xorg-xev \
-  xorg-xhost \
   xclip \
   i3-wm \
-  pipewire \
-  pipewire-alsa \
-  pipewire-pulse \
+  pulseaudio-alsa \
   pamixer \
   usbutils \
-  kitty \
   git \
   ttf-dejavu \
   redshift \
   jq \
   zathura-pdf-mupdf \
-  rustup \
   catimg \
   cmus \
   qemu \
   xcompmgr \
-  gucharmap \
   mangohud \
   lib32-mangohud \
-  shotgun \
-  hacksaw \
-  xdotool \
-  gpick \
-  arandr \
   heimdall \
-  nitrogen \
   sxiv \
   thunderbird-i18n-pt-br \
   scrcpy \
@@ -42,14 +29,10 @@ sudo pacman -S xorg-server \
   gamemode \
   lib32-gamemode \
   spotifyd \
-  libreoffice-fresh-pt-br \
-  libreoffice-fresh \
   streamlink \
   wine-staging \
   ytfzf \
-  minidlna \
   xdg-desktop-portal-gtk \
-  dosfstools \
   npm \
   yad \
   bitwarden --noconfirm
