@@ -7,6 +7,8 @@ sudo pacman -S xorg-server \
   xorg-xrandr \
   xclip \
   i3-wm \
+  pavucontrol \
+  kitty \
   pulseaudio-alsa \
   pamixer \
   usbutils \
